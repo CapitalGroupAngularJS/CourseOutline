@@ -2,6 +2,7 @@
 AngularJS for Capital Group Intermediate Course**
 
 **Course Number:** Custom
+
 **Duration:** 3 Days
 
 **AngularJS Training Overview**
