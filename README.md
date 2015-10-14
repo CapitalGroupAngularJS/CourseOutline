@@ -81,7 +81,7 @@ Students will:
 
     -   The role of controllers in an AngularJS App
 
-    -   Managing Scope with \$scope
+    -   Managing Scope with $scope
 
     -   Building a controller
 
