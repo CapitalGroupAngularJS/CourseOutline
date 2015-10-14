@@ -139,34 +139,6 @@ Students will:
 
     -   Running a scenario
 
--   Routing
-
-    -   ngRoute and AngularUI Router
-
-    -   URL and State based Routing
-
-    -   Routing Single Page Apps
-
-    -   Writing tests for routing
-
--   Expressions
-
-    -   Overview of Expressions in AngularJS
-
-    -   Expression capabilities
-
-    -   Limitations
-
--   Filters
-
-    -   Standard filters
-
-    -   Writing custom filters
-
-    -   Piping filters together
-
-    -   Writing Tests for Filters
-
 -   Scopes
 
     -   What are scopes?
@@ -194,6 +166,24 @@ Students will:
     -   Creating reusable directives
 
     -   Turning directives into components
+
+-   Expressions
+
+    -   Overview of Expressions in AngularJS
+
+    -   Expression capabilities
+
+    -   Limitations
+
+-   Filters
+
+    -   Standard filters
+
+    -   Writing custom filters
+
+    -   Piping filters together
+
+    -   Writing Tests for Filters
 
 -   Angular Forms
 
@@ -237,20 +227,6 @@ Students will:
 
     -   Making RESTful Service calls with $resource
 
--   Debugging, Exception Handling, and Logging
-
-    -   Built-In Browser Debugging Tools
-
-    -   Plug-Ins for AngularJS Debugging
-
-    -   Effective Exception Handling in AngularJS
-
-    -   Exception Catchers
-
-    -   Routing Errors
-
-    -   Logging in AngularJS
-
 -   Developing Custom Directives
 
     -   Teaching HTML new tricks
@@ -268,6 +244,30 @@ Students will:
     -   Turning directives into components
 
     -   Transclusion
+
+-   Routing
+
+    -   ngRoute and AngularUI Router
+
+    -   URL and State based Routing
+
+    -   Routing Single Page Apps
+
+    -   Writing tests for routing
+
+-   Debugging, Exception Handling, and Logging
+
+    -   Built-In Browser Debugging Tools
+
+    -   Plug-Ins for AngularJS Debugging
+
+    -   Effective Exception Handling in AngularJS
+
+    -   Exception Catchers
+
+    -   Routing Errors
+
+    -   Logging in AngularJS
 
 -   Questions and Answers
 
